@@ -1,0 +1,1 @@
+This repository contains functions to analyze finance instruments across geographies and currencies. Takes personal portfolio excel file as import, performs fundamental level analytics and generates visuals using a streamlit dashboard.
